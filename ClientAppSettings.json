@@ -1,6 +1,7 @@
 {
 "FStringNewInGameMenuForcedUserIds": "",
 "DFIntTaskSchedulerTargetFps": 200000000,
+"FStringImmersiveAdsUniverseWhitelist": "0",
 "DFFlagDebugAnalyticsSendUserId": false,
 "DFStringAnalyticsEventStreamUrlEndpoint": "opt-out",
 "DFStringAltHttpPointsReporterUrl": "https://opt-out.roblox.com",
