@@ -1,6 +1,10 @@
 {
 "FIntFlagUpdateVersion": 89,
 "FStringNewInGameMenuForcedUserIds": "",
+"DFFlagRenderTC2_6": true,
+"FFlagRenderTC2_Disable": false,
+"FIntRenderTC2_PercentageRollout": 100,
+"FFlagRenderFixTC2MemoryLeak": true,
 "FFlagLoadCoreScriptsFromPatchOnly": true,
 "DFIntTaskSchedulerTargetFps": 200000000,
 "FStringImmersiveAdsUniverseWhitelist": "0",
