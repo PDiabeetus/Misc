@@ -8,6 +8,7 @@
 "FFlagLoadCoreScriptsFromPatchOnly": true,
 "DFIntTaskSchedulerTargetFps": 200000000,
 "FStringImmersiveAdsUniverseWhitelist": "0",
+"FFlagImmersiveAdsWhitelistDisabled": false,
 "DFFlagDebugAnalyticsSendUserId": false,
 "DFStringAnalyticsEventStreamUrlEndpoint": "opt-out",
 "DFStringAltHttpPointsReporterUrl": "https://opt-out.roblox.com",
