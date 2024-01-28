@@ -1,4 +1,5 @@
 {
+"FIntFlagUpdateVersion": 89,
 "FStringNewInGameMenuForcedUserIds": "",
 "FFlagLoadCoreScriptsFromPatchOnly": true,
 "DFIntTaskSchedulerTargetFps": 200000000,
