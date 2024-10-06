@@ -58,7 +58,7 @@
 "DFStringRobloxAnalyticsSubDomain": "opt-out",
 "DFStringRobloxAnalyticsURL": "https://opt-out.roblox.com",
 "DFStringAnalyticsNS1ApplicationId": "opt-out",
-"DFStringAnalyticsNS1BeaconConfig": "https://opt-out.roblox.com"
+"DFStringAnalyticsNS1BeaconConfig": "https://opt-out.roblox.com",
 "DFIntDebugSimPrimalWarmstartForce": "40",
 "DFIntDebugSimPrimalWarmstartVelocity": "102",
 "FFlagDebugSimDefaultPrimalSolver": "True",
