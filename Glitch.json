@@ -1,0 +1,6 @@
+{
+"DFIntDebugSimPrimalWarmstartForce": "40",
+"DFIntDebugSimPrimalWarmstartVelocity": "102",
+"FFlagDebugSimDefaultPrimalSolver": "True",
+"DFIntDebugSimPrimalLineSearch": "41"
+}
