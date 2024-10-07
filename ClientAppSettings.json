@@ -16,7 +16,6 @@
 "DFFlagTaskSchedulerBlockingShutdownInClients": true,
 "FFlagTaskSchedulerUseRobloxRuntime": true,
 "FFlagCacheRequestedMaxSize": true,
-"DFFlagHttpCacheCleanBasedOnMemory": true,
 "FFlagFixGraphicsQuality": true,
 "FFlagCommitToGraphicsQualityFix": true,
 "FFlagPerformanceControlChangeTunableEagerly": true,
