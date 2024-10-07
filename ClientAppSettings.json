@@ -1,6 +1,5 @@
 {
 "FFlagLoadCoreScriptsFromPatchOnly": true,
-"DFIntTaskSchedulerTargetFps": 200000000,
 "FStringImmersiveAdsUniverseWhitelist": "0",
 "FFlagImmersiveAdsWhitelistDisabled": false,
 "FFlagAdGuiEnabled3": false,
