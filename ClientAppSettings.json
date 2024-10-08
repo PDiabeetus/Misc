@@ -16,6 +16,7 @@
 "DFFlagTaskSchedulerBlockingShutdownInClients": true,
 "FFlagTaskSchedulerUseRobloxRuntime": true,
 "FFlagCacheRequestedMaxSize": true,
+"FFlagDebugGraphicsPreferVulkan": true,
 "FFlagFixGraphicsQuality": true,
 "FFlagCommitToGraphicsQualityFix": true,
 "FFlagPerformanceControlChangeTunableEagerly": true,
