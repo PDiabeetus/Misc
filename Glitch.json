@@ -1,5 +1,5 @@
 {
-"DFIntNewRunningBaseGravityReductionFactorHundredth": "1500",
+"DFIntNewRunningBaseGravityReductionFactorHundredth": "15",
 "DFIntDebugSimPrimalWarmstartForce": "40",
 "DFIntDebugSimPrimalWarmstartVelocity": "102",
 "FFlagDebugSimDefaultPrimalSolver": "True",
