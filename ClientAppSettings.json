@@ -27,9 +27,9 @@
   "FFlagCacheRequestedMaxSize": true,
   "FFlagDebugGraphicsPreferD3D11": "True"
   "FFlagFixGraphicsQuality": true,
-  "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "3"
   "FFlagCommitToGraphicsQualityFix": true,
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "3",
   "FFlagPerformanceControlChangeTunableEagerly": true,
   "FFlagPerformanceControlDynamicUtilityCurves": true,
   "FFlagPerformanceControlMimicMemoryPrioritization": true,
