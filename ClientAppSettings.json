@@ -9,6 +9,7 @@
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
   "FIntRobloxGuiBlurIntensity": "0",
   "FIntCameraMaxZoomDistance": "9999",
+  "DFFlagDebugDrawBroadPhaseAABBs": "True",
   "FStringImmersiveAdsUniverseWhitelist": "0",
   "FFlagImmersiveAdsWhitelistDisabled": false,
   "FFlagAdGuiEnabled3": false,
