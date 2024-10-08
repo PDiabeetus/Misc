@@ -1,12 +1,6 @@
 {
   "FFlagLoadCoreScriptsFromPatchOnly": true,
   "DFFlagDebugEnableInterpolationVisualizer": "True",
-  "FFlagVoiceBetaBadge": "False",
-  "FFlagTopBarUseNewBadge": "False",
-  "FFlagEnableBetaBadgeLearnMore": "False",
-  "FFlagBetaBadgeLearnMoreLinkFormview": "False",
-  "FFlagControlBetaBadgeWithGuac": "False",
-  "FStringVoiceBetaBadgeLearnMoreLink": "null",
   "FIntRobloxGuiBlurIntensity": "0",
   "FIntCameraMaxZoomDistance": "9999",
   "FStringImmersiveAdsUniverseWhitelist": "0",
