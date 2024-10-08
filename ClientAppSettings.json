@@ -6,7 +6,8 @@
   "FFlagEnableBetaBadgeLearnMore": "False",
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
-  "FStringVoiceBetaBadgeLearnMoreLink": "null"
+  "FStringVoiceBetaBadgeLearnMoreLink": "null",
+  "FIntRobloxGuiBlurIntensity": "0",
   "FStringImmersiveAdsUniverseWhitelist": "0",
   "FFlagImmersiveAdsWhitelistDisabled": false,
   "FFlagAdGuiEnabled3": false,
