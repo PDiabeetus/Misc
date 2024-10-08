@@ -25,7 +25,7 @@
   "DFFlagTaskSchedulerBlockingShutdownInClients": true,
   "FFlagTaskSchedulerUseRobloxRuntime": true,
   "FFlagCacheRequestedMaxSize": true,
-  "FFlagDebugGraphicsPreferD3D11": "True"
+  "FFlagDebugGraphicsPreferD3D11": "True",
   "FFlagFixGraphicsQuality": true,
   "FFlagCommitToGraphicsQualityFix": true,
   "DFFlagTextureQualityOverrideEnabled": "True",
