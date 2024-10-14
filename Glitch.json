@@ -1,6 +1,6 @@
 {
   "FFlagLoadCoreScriptsFromPatchOnly": true,
-  "DFFlagDebugEnableInterpolationVisualizer": "True",
+  "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
   "FIntRobloxGuiBlurIntensity": "0",
   "FIntCameraMaxZoomDistance": "9999",
   "FStringImmersiveAdsUniverseWhitelist": "0",
