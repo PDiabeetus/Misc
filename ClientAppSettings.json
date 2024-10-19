@@ -1,5 +1,7 @@
 {
   "FFlagLoadCoreScriptsFromPatchOnly": true,
+  "DFIntVoiceChatRollOffMinDistance": "7",
+  "DFIntVoiceChatRollOffMaxDistance": "2147483647",
   "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
   "FIntRobloxGuiBlurIntensity": "0",
   "FIntCameraMaxZoomDistance": "9999",
