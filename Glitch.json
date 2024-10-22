@@ -58,7 +58,7 @@
   "DFStringAnalyticsNS1ApplicationId": "opt-out",
   "DFStringAnalyticsNS1BeaconConfig": "https://opt-out.roblox.com",
   "DFIntDebugSimPrimalWarmstartForce": "40",
-  "DFIntDebugSimPrimalWarmstartVelocity": "102",
+  "DFIntDebugSimPrimalWarmstartVelocity": "256",
   "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalLineSearch": "41"
+  "DFIntDebugSimPrimalLineSearch": "75"
 }
