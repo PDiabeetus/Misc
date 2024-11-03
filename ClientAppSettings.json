@@ -22,6 +22,8 @@
   "FFlagTaskSchedulerUseRobloxRuntime": true,
   "FFlagCacheRequestedMaxSize": true,
   "FFlagDebugGraphicsPreferD3D11": "True",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "3",
   "DFFlagEnablePerfAudioCollection": false,
   "DFFlagEnablePerfDataCoreCategoryTimersCollection2": false,
   "DFFlagEnablePerfDataCoreTimersCollection2": false,
