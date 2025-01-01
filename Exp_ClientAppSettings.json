@@ -125,7 +125,6 @@
   "DFFlagBrowserTrackerIdTelemetryEnabled": false,
   "DFIntBrowserTrackerApiDeviceInitializeRolloutPercentage": 0,
   "DFIntBrowserTrackerIdTelemetryThrottleHundredthsPercent": 100000,
-  "DFIntRaycastMaxDistance": "3",
   "FFlagUserHideCharacterParticlesInFirstPerson": "True",
   "FIntRenderLocalLightUpdatesMax": 32,
   "FIntRenderLocalLightUpdatesMin": 16,
