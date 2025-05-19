@@ -1,6 +1,6 @@
 {
   "FStringDebugShowFlagState": "ChannelName",
-  "FIntCameraFarZPlane": 0,
+  "DFIntCameraFarZPlane": 0,
   "FIntRaycastMaxDistance": 3,
   "DFIntVoiceChatRollOffMinDistance": 100,
   "DFIntVoiceChatRollOffMaxDistance": 2147483647,
