@@ -3,7 +3,7 @@
   "DFIntVoiceChatRollOffMaxDistance": 2147483647,
   "DFIntCanHideGuiGroupId": 8080482,
   "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
-  "FIntRobloxGuiBlurIntensity": "0",
+  "FIntRobloxGuiBlurIntensity": 0,
   "FStringImmersiveAdsUniverseWhitelist": "0",
   "FFlagImmersiveAdsWhitelistDisabled": false,
   "FFlagAdGuiEnabled3": false,
