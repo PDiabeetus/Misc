@@ -1,6 +1,6 @@
 {
-  "DFIntVoiceChatRollOffMinDistance": 100,
-  "DFIntVoiceChatRollOffMaxDistance": 2147483647,
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
+  "DFIntTaskSchedulerTargetFps": 2147483647,
   "DFIntCanHideGuiGroupId": 8080482,
   "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
   "FIntRobloxGuiBlurIntensity": 0,
