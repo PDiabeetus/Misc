@@ -3,8 +3,6 @@
   "DFFlagDebugRenderForceTechnologyVoxel": true,
   "DFIntDebugFRMQualityLevelOverride": 1,
   "FIntRenderShadowIntensity": 5,
-  "DFIntVoiceChatRollOffMinDistance": 100,
-  "DFIntVoiceChatRollOffMaxDistance": 2147483647,
   "DFIntCanHideGuiGroupId": 8080482,
   "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
   "FIntRobloxGuiBlurIntensity": 0,
