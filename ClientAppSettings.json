@@ -1,6 +1,6 @@
 {
   "FFlagTaskSchedulerLimitTargetFpsTo2402": false,
-  "DFIntTaskSchedulerTargetFps": 2147483647,
+  "DFIntTaskSchedulerTargetFps": 999,
   "DFIntCanHideGuiGroupId": 8080482,
   "FIntFullscreenTitleBarTriggerDelayMillis": 2147483647,
   "FIntRobloxGuiBlurIntensity": 0,
